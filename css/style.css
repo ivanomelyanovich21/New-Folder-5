@@ -1,0 +1,80 @@
+
+
+.container{
+   width: 700px;
+   margin: 0px auto;
+   background-image: url(https://images.unsplash.com/photo-1649887167821-d1c3085e2c47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+   background-repeat: no-repeat;
+   background-size: 700px;
+   background-position: center;
+   min-height: 100vh;
+   text-align: center;
+   margin-top: -23px;
+   border-left: 50px solid rgb(226, 65, 16);
+   border-right: 50px solid rgb(12, 46, 184);
+}
+
+h1{
+    font-family: 'Alfa Slab One',
+    cursive;
+    font-size: 40px;
+    color: rgb(204, 52, 1);
+}
+
+.one{
+    font-family: 'Carter One',
+    cursive;
+    font-size: 25px;
+    color: rgb(137, 137, 137);
+}
+
+.two{
+    font-family: 'Cairo',
+    sans-serif;
+    font-size: 35px;
+    color: blanchedalmond;
+}
+
+.three{
+    font-family: 'Oswald',
+    sans-serif;
+    font-size: 25px;
+    color: rgb(148, 145, 145);
+}
+
+.four{
+    font-family: 'Mali',
+    cursive;
+    font-size: 30px;
+    color: rgb(241, 117, 1);
+}
+
+.five{
+    font-family: 'Cookie',
+    cursive;
+    font-size: 40px;
+    color: white;
+}
+
+.six{
+    font-family: 'Caveat Brush',
+    cursive;
+    font-size: 40px;
+    background-color: white;
+    color: black;
+    width: 450px;
+    margin: 0px auto;
+    transform: rotate(-5deg);
+}
+
+.seven{
+    font-family: 'DM Mono',
+    monospace;
+    font-size: 30px;
+    transform: scale(0.5) translate(50%, 100%);
+    margin-top: 100px;
+}
+
+span{
+    color: red;
+}
